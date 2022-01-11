@@ -1,0 +1,22 @@
+Traceback (most recent call last):
+  File "/root/files/excel_email_send.py", line 9, in <module>
+    print('PO List \uc2dc\uc791 ('+today+')')
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 8-9: ordinal not in range(128)
+PO List start (2022-01-10)
+DB connection success
+PO List end (2022-01-10)
+PO List start (2022-01-10)
+DB connection success
+PO List end (2022-01-10)
+PO List start (2022-01-10)
+DB connection success
+PO List end (2022-01-10)
+PO List start (2022-01-11)
+DB connection success
+PO List end (2022-01-11)
+PO List start (2022-01-11)
+DB connection success
+PO List end (2022-01-11)
+PO List start (2022-01-11)
+DB connection success
+PO List end (2022-01-11)
